@@ -1,0 +1,1 @@
+We mainly used dataset 'CFRdatabase.csv' to conduct our data analysis. The original dataset came from https://www.cfr.org/cyber-operations/. File 'AttributionKeyGuide.csv' provides detailed information of each attributor. File 'APTKey.csv' provides detailed information for each APT category. 
